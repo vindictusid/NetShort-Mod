@@ -63,6 +63,13 @@
     "allowOffline": true
   },
   {
+    "id": "74bb5cce92fbb664",
+    "username": "6281282211102",
+    "password": "netshortmod",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
